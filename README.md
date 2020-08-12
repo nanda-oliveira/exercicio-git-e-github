@@ -13,8 +13,8 @@ Biblioteca é um conjunto de funções, normalmente organizadas em classes, que 
 <br> <br>
 Um exemplo de biblioteca padrão poderá incluir funcionalidades para manipular string, datas, eventos, animações, entre outros. Cada uma destas funções retornará valores para a aplicação que a está invocando que então poderá ser manipulada de acordo com a necessidade.
 <br> <br>
-Uma biblioteca pode reduzir o tempo de desenvolvimento, pois não será necessário se preocupar com detalhes. Por outro lado, um bug dentro da biblioteca pode se tornar difícil de descobrir e corrigir, não há garantias que os responsáveis pela biblioteca irão corrigi-lo em tempo hábil e uma atualização pode mudar a API de forma a causar mudanças em seu código
-Em conclusão, podemos dizer que uma biblioteca (do inglês library, não confundir com livraria que em inglês é book store) é uma coleção de códigos voltados a resolver um determinado tipo de problema.
+Uma biblioteca pode reduzir o tempo de desenvolvimento, pois não será necessário se preocupar com detalhes. Por outro lado, um bug dentro da biblioteca pode se tornar difícil de descobrir e corrigir, não há garantias que os responsáveis pela biblioteca irão corrigi-lo em tempo hábil e uma atualização pode mudar a API de forma a causar mudanças em seu código.
+Neste sentido, podemos dizer que uma biblioteca (do inglês library, não confundir com livraria que em inglês é book store) é uma coleção de códigos voltados a resolver um determinado tipo de problema.
 <br> <br>
 
 *Exemplos de Bibliotecas JavaScript*
@@ -61,7 +61,7 @@ Frameworks também podem ser entendidos como plataformas de desenvolvimento. Ele
 5. __LoopBack__: Framework para criar APIs e microserviços com Node.js
  <br> <br> <br>
 
-# **Mas qual a diferença?** <h1>
+# **Mas, qual a diferença?** <h1>
 <br>
 
 ![BibxFrame](https://i.stack.imgur.com/9v5bJ.png)
