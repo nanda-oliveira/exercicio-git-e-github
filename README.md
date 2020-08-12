@@ -1,7 +1,7 @@
 # exercicio-git-e-github
 atividade 1 -  {reprograma}
 
-## Entendendo Biblioteca e Framework? <h2>
+## Entendendo Biblioteca e Framework <h2>
 
 # **Biblioteca** <h1>
 <br> <br> 
@@ -56,17 +56,18 @@ Assim um Framework tem como principal objetivo resolver problemas recorrentes co
 4. __Express__: Framework para criar aplicações com Node.js
 
 5. __LoopBack__: Framework para criar APIs e microserviços com Node.js
- <br> <br> <br
+ <br> <br> <br>
 
 # **Mas qual a diferença?** <h1>
 <br>
+
 ![BibxFrame](https://i.stack.imgur.com/9v5bJ.png)
 <br> <br>
 
-**Você chama uma biblioteca. É uma ferramenta. Você usa o que precisa.***
+**Você chama uma biblioteca. É uma ferramenta. Você usa o que precisa.**
 
 **Um framework chama você. É um estilo de vida. Seu projeto se compromete com ele.**
 
-<br> <br>
+<br> 
  Você pode se perguntar, então Framework é uma biblioteca? Bem quase isso, pode-se dizer que é um conjunto de bibliotecas ou componentes que são usados para criar uma base onde sua aplicação será construída. As frameworks ajudam no desenvolvimento rápido e seguro de aplicações mas é recomendável, estudar antes a tecnologia em que é desenvolvida. Comparado com uma biblioteca, o nível de abstração é mais alto e somado as diversas funcionalidades prontas, o desenvolvimento dos primeiros 80% será incrivelmente rápido. Por outro lado, os 20% restantes podem ser mais difíceis que a primeira parte se eles saírem das limitações do framework, atualizações são muito difíceis de serem implementadas e ao mesmo tempo o código se torna obsoletos relativamente rápido.
 <br> <br>
