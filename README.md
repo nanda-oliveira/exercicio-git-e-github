@@ -9,13 +9,9 @@ atividade 1 -  {reprograma}
  ![Biblioteca](https://aguiarbuenosaires.com/wp-content/uploads/2015/04/Livraria_ateneo_2-800x541.jpg)
 
 <br>
-
-Uma biblioteca é uma coleção organizada de funcionalidade úteis.  
 Biblioteca é um conjunto de funções, normalmente organizadas em classes, que podem ser usadas para a construção de softwares, simplificando a linguagem de programação. Há diversas classes de bibliotecas, com finalidades diferentes, como acesso a banco de dados, manipulação de imagens, entre tantas outras. Elas são a base para criação dos frameworks.
-
 <br> <br>
 Um exemplo de biblioteca padrão poderá incluir funcionalidades para manipular string, datas, eventos, animações, entre outros. Cada uma destas funções retornará valores para a aplicação que a está invocando que então poderá ser manipulada de acordo com a necessidade.
-
 <br> <br>
 Uma biblioteca pode reduzir o tempo de desenvolvimento, pois não será necessário se preocupar com detalhes. Por outro lado, um bug dentro da biblioteca pode se tornar difícil de descobrir e corrigir, não há garantias que os responsáveis pela biblioteca irão corrigi-lo em tempo hábil e uma atualização pode mudar a API de forma a causar mudanças em seu código
 Em conclusão, podemos dizer que uma biblioteca (do inglês library, não confundir com livraria que em inglês é book store) é uma coleção de códigos voltados a resolver um determinado tipo de problema.
