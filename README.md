@@ -9,10 +9,15 @@ atividade 1 -  {reprograma}
  ![Biblioteca](https://aguiarbuenosaires.com/wp-content/uploads/2015/04/Livraria_ateneo_2-800x541.jpg)
 
 <br>
-Uma biblioteca é uma coleção organizada de funcionalidade úteis. Um exemplo de biblioteca padrão poderá incluir funcionalidades para manipular string, datas, eventos, animações, etc… Cada uma destas funções retornará valores para a aplicação que a está invocando que então poderá ser manipulada de acordo com a necessidade.
+
+Uma biblioteca é uma coleção organizada de funcionalidade úteis.  
+Biblioteca é um conjunto de funções, normalmente organizadas em classes, que podem ser usadas para a construção de softwares, simplificando a linguagem de programação. Há diversas classes de bibliotecas, com finalidades diferentes, como acesso a banco de dados, manipulação de imagens, entre tantas outras. Elas são a base para criação dos frameworks.
 
 <br> <br>
-Uma biblioteca pode reduzir o tempo de desenvolvimento de pois não a necessidade de se preocupar com detalhes. Por outro lado, um bug dentro da biblioteca pode se tornar difícil de descobrir e corrigir, não há garantias que os responsáveis pela biblioteca irão corrigi-lo em tempo hábil e uma atualização pode mudar a API de forma a causar mudanças em seu código
+Um exemplo de biblioteca padrão poderá incluir funcionalidades para manipular string, datas, eventos, animações, entre outros. Cada uma destas funções retornará valores para a aplicação que a está invocando que então poderá ser manipulada de acordo com a necessidade.
+
+<br> <br>
+Uma biblioteca pode reduzir o tempo de desenvolvimento, pois não será necessário se preocupar com detalhes. Por outro lado, um bug dentro da biblioteca pode se tornar difícil de descobrir e corrigir, não há garantias que os responsáveis pela biblioteca irão corrigi-lo em tempo hábil e uma atualização pode mudar a API de forma a causar mudanças em seu código
 Em conclusão, podemos dizer que uma biblioteca (do inglês library, não confundir com livraria que em inglês é book store) é uma coleção de códigos voltados a resolver um determinado tipo de problema.
 <br> <br>
 
@@ -42,6 +47,8 @@ Os frameworks podem ser criados ou pela própria comunidade ou por empresas mant
 O foco principal de um framework é a reusabilidade. Você pode utilizar um framework para desenvolver várias aplicações, reaproveitando estas estruturas pré-disponibilizadas para lidar com tarefas repetitivas ou que são comuns em vários tipos de sistemas (como, por exemplo, a funcionalidade de autenticação). Nesse exemplo, você não precisa dedicar tempo para desenvolver a funcionalidade de login, já que existem frameworks já testados para essa finalidade. Além disso, se necessário, você pode personalizar estes componentes pré-disponibilizados de acordo com as demandas do projeto em questão.
 <br> <br>
 Assim um Framework tem como principal objetivo resolver problemas recorrentes com uma abordagem genérica, permitindo ao desenvolvedor focar seus esforços na resolução do problema em si, e não ficar reescrevendo software. No mercado existem várias linguagens e frameworks, como JavaScript, Java,HTML, CCS, PHP, Python e Ruby.
+<br> <br>
+Frameworks também podem ser entendidos como plataformas de desenvolvimento. Eles possuem lacunas que devem ser preenchidas pelo programador para funcionar conforme sua necessidade. Pode ser visto como um esqueleto de uma aplicação. Frequentemente são confundidos, de forma certa ou errada, como um conjunto de classes.
 <br> <br>
 
 *Exemplos de Frameworks JavaScript*
